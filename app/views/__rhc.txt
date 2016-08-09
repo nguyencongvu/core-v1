@@ -1,0 +1,1 @@
+rhc tail -f app-root/logs/nodejs.log -a myapp
